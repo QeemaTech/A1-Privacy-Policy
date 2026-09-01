@@ -72,7 +72,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 10. Contact Us
 If you have questions about this Privacy Policy, contact us:
-- Email: privacy@tamara.app
-- Support: support@tamara.app
+- Email: privacy@a1.app
+- Support: support@a1.app
 - Phone: +966 50 000 0000
 - Address: Saudi Arabia
